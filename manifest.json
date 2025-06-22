@@ -1,0 +1,14 @@
+{
+    "display_name": "CharacterProfilePlus",
+    "description": "Enhances the character profile with a header, bio, resizable image, and a dedicated chat history tab.",
+    "loading_order": 15,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "AI Assistant",
+    "version": "1.0.0",
+    "license": "AGPL-3.0",
+    "homepage": "https://github.com/SillyTavern/SillyTavern",
+    "auto_update": true
+}
